@@ -1,5 +1,5 @@
 # Bistromathique
-Projet de fin de premier mois. Le programme est une calculette gérant les nombres infinis, les priorités d'operation en base n.
+Projet de fin de piscine. Le programme est une calculette gérant les nombres infinis, les priorités d'operation en base n.
 Utilisation : ./calc base operateurs taille
 
 Exemple d'appel :
